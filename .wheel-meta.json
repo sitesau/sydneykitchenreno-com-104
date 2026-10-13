@@ -1,0 +1,19 @@
+{
+  "wheel_id": 350,
+  "structure": "umbrella",
+  "slug": "sydneykitchenreno-com-104",
+  "project": "kitchen-renovations-sydney-costs-cf25f2c430d0c41130d9e8449f5aee",
+  "parent_t1_ref": "sydneykitchenreno-com-151",
+  "node_role": "feeder",
+  "money_target": "sydneykitchenreno.com.au",
+  "primary_kw": "kitchen renovations sydney costs",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-sydney-costs-cf25f2c430d0c41130d9e8449f5aee/",
+  "writeback_nonce": "20b9f2e458a5a710",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/sydneykitchenreno-com-151/",
+      "anchor": "kitchen renovations sydney",
+      "rel": "follow"
+    }
+  ]
+}
